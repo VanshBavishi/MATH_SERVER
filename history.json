@@ -1,0 +1,46 @@
+[
+  {
+    "question": "1 + 7",
+    "answer": 8
+  },
+  {
+    "question": "25 - 41",
+    "answer": -16
+  },
+  {
+    "question": "41 - 23 + 39",
+    "answer": 57
+  },
+  {
+    "question": "34 * 35 / 100",
+    "answer": 11.9
+  },
+  {
+    "question": "3 powerof 8",
+    "answer": 6561.0
+  },
+  {
+    "question": "10 factorial",
+    "answer": 3628800
+  },
+  {
+    "question": "81 * 21 + 23 - 40",
+    "answer": 1684
+  },
+  {
+    "question": "2 + 5",
+    "answer": 7
+  },
+  {
+    "question": "1 + 2 - 4 / 42",
+    "answer": 2.9047619047619047
+  },
+  {
+    "question": "1 + 2 - 4 / 4",
+    "answer": 2.0
+  },
+  {
+    "question": "1 + 2 - 4 / 4",
+    "answer": 2.0
+  }
+]
